@@ -1,6 +1,6 @@
 name: 'Git Tag Generator'
 description: 'Generate and push SemVer formatted git tag on push/merge'
-author: 'Michal Zegar'
+author: 'anothrNick'
 runs:
   using: 'docker'
   image: 'Dockerfile'
